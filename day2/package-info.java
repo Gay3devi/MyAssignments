@@ -1,1 +1,1 @@
-package week5.day2;
+package week6.day2;
